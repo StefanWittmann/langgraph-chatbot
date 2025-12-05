@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-ollama
+langgraph-cli[inmem]>=0.4.7
+langchain-openai
+

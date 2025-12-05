@@ -1,0 +1,12 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./agent.py:graph"
+  },
+  "env": ".env",
+  "runtime": "inmem",
+  "api": {
+    "port": 2024,
+    "host": "0.0.0.0"
+  }
+}
