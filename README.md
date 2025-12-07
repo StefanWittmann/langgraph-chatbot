@@ -119,13 +119,13 @@ Each report features:
 
 ```
 ┌───────────────────────────────────────────────────────┐
-│                 LangGraph Research Agent                │
+│                 LangGraph Research Agent              │
 ├───────────────────────────────────────────────────────┤
 │                                                       │
 │  ┌─────────────┐    ┌─────────────┐    ┌───────────┐  │
-│  │  Scoping     │    │  Research    │    │  Multi-    │  │
-│  │  Agent       │───▶│  Agent       │───▶│  Agent     │  │
-│  │  (Scope)     │    │  (Research)  │    │  Supervisor│  │
+│  │  Scoping    │    │  Research   │    │  Multi-   │  │
+│  │  Agent      │───▶│  Agent      │───▶│  Agent    │  │
+│  │  (Scope)    │    │  (Research) │    │  Supervis.│  │
 │  └─────────────┘    └─────────────┘    └───────────┘  │
 │                                                       │
 └───────────────────────────────────────────────────────┘
